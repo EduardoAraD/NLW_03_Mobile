@@ -1,5 +1,5 @@
 # Happy Mobile
-[![NPM](https://github.com/EduardoAraD/NLW_03_Mobile/blob/main/LICENSE)
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/EduardoAraD/NLW_03_Mobile/blob/main/LICENSE)
 
 # Sobre o projeto
 
